@@ -12,4 +12,4 @@
 # conda activate /scratch/maj596/conda-envs/IPNV2_pytorch
 
 #Your application commands go here
-python test(FAZ).py
+python test_FAZ.py
